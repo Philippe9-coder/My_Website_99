@@ -13,9 +13,9 @@ params:
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: Koudougou
+        country: Burkina Faso
+        street: Palogo
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -24,7 +24,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (+226) 64-34-75-31
         title: Phone
   custom_css: []
   custom_js: []
@@ -34,7 +34,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: By Philippe Yameogo
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -66,13 +66,13 @@ params:
       - name: Log In
         url: '#'
     links:
-      - name: Home
+      - name: Accueil
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
+      - name: Our_Product
         url: blogs/ipsum
-      - name: Elements
+      - name: Evenements
         url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
@@ -107,11 +107,8 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "SharePoint est un système de collaboration basé sur site Web qui utilise des applications de workflow, des bases de données « listes » et d'autres composants WebParts, ainsi que des fonctions de sécurité pour permettre aux équipes professionnelles de collaborer.
+Pourquoi utiliser SharePoint ? ... En clair, SharePoint vous permet de gérer l'ensemble de vos contenus d'entreprise, comme des documents marketing entre autres. Il permet également de créer des sites Web et des intranets d'entreprise pour tenir vos utilisateurs informés de ce qui se passe.
+."
+    title: About Us
     url: blogs
