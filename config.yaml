@@ -46,10 +46,10 @@ params:
         url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://www.facebook.com/profile.php?id=100008694165424
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/philippe.yameogo/
       - icon: fa-github
         label: GitHub
         url: https://www.github.com/philippe9-coder
@@ -59,21 +59,21 @@ params:
   image: ''
   name: Your name
   navigation:
-    button1:
-      - name: Get Started
-        url: blogs
-    button2:
-      - name: Log In
-        url: '#'
+    #button1:
+      #- name: Get Started
+       # url: blogs
+    #button2:
+      #- name: Log In
+       # url: '#'
     links:
       - name: Accueil
         url: '#'
-      - name: Blogs
-        url: blogs
+      - name: Search
+        url: blogs/aliquam
       - name: Our_Product
-        url: blogs/ipsum
+        url: blogs/tempus
       - name: Evenements
-        url: elements.html
+        url: blogs/magna
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
@@ -81,24 +81,24 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: Top beer and wine consumption
+        title: Where do people drink the most?
         url: blogs/aliquam
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+        subtitle: Maintenance en Informatique
+        title: Graphism
         url: blogs/tempus
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+        subtitle: Detente
+        title: Plage
         url: blogs/magna
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+        subtitle: Nature
+        title: Picture
+        url: blogs/About
       - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
+        subtitle: Object d'art
+        title: Art
         url: blogs/ipsum
       - image: pic06.jpg
         subtitle: Feugiat Amet Tempus
@@ -107,8 +107,12 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "SharePoint est un système de collaboration basé sur site Web qui utilise des applications de workflow, des bases de données « listes » et d'autres composants WebParts, ainsi que des fonctions de sécurité pour permettre aux équipes professionnelles de collaborer.
-Pourquoi utiliser SharePoint ? ... En clair, SharePoint vous permet de gérer l'ensemble de vos contenus d'entreprise, comme des documents marketing entre autres. Il permet également de créer des sites Web et des intranets d'entreprise pour tenir vos utilisateurs informés de ce qui se passe.
+    subtitle: "Hi!
+I am responding on behalf of Philippe YAMEOGO, a student at Burkina Institute of Technology (BIT), who is completing my third year of computer engineering.
+During my studies, I really liked the very advanced training I had in computer tools. On top of that, I really enjoyed the leadership courses which allowed me to develop a fairly high level of dynamism and a sense of responsibility.
+
+All my thanks go to the place of the administration of BIT, my teachers and my comrades. And the best is yet to come BIT.
+
 ."
     title: About Us
     url: blogs
